@@ -1,3 +1,3 @@
 # soltre-t-solete-i-com-Louis-Braille
-Obra sobre contribuições de Luis Braille para quem trabalho com tecnologia
-Fase de impressão na gráfica.
+Contribuições de Luis Braille para profissionais, empreendedores, pesquisadores, professores e estudantes das áreas da tecnologia.
+Obra em fase de impressão na gráfica.
